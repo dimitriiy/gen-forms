@@ -53,7 +53,6 @@ export const editingFormScheme = [
     {
       id: "work",
       type: FormTypeElement.booleanRadioGroup,
-      props: undefined,
     },
     {
       id: "work_company",
